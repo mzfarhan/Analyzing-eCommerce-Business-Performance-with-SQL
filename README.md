@@ -43,3 +43,55 @@ Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performanc
 ---
 
 ## 📂 **STAGE 2: Data Analysis**
+
+### **1. Annual Customer Activity Growth**
+Annual customer activity growth can be analyzed from Monthly Active Users (MAU), new customers, repeat order customers, and average orders per customer.
+
+<p align="center">
+**Annual Customer Activity Growth Analysis Results**
+![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/5fea778c-ee4a-4c1e-a148-abf337016f99)
+</p>
+
+<br>
+
+<p align="center">
+**Average MAU Graph**
+![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/abc219a8-2620-4b0e-9659-b34ad2e0851f)
+</p>
+Overall, the company experienced an increase in Monthly Active Users every year. A significant increase occurred from 2016 to 2017.
+
+<br>
+
+<p align="center">
+**Total New Customer per Year**
+![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/9fd528fb-d23a-431c-b8f5-b2ab0ccf43ea)
+</p>
+Overall, the company experienced an increase in the Number of New Customers every year. A significant increase occurred from 2016 to 2017.
+
+<br>
+
+<p align="center">
+**Customer Repeat Order per Year**
+![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/04e846d8-111e-4c0c-a264-78586f3417d3)
+</p>
+Overall, the company experienced an increase in the Number of Customers who placed repeat orders every year. A significant increase occurred from 2016 to 2017.
+
+<br>
+
+<p align="center">
+**Average Order Frequency per Year**
+![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/90903eb8-44c8-4d53-bf00-325d9f6aeb0f)
+</p>
+The customer repeat order rate is considered low, averaging only once a year.
+
+### **2. Annual Product Category Quality**
+
+The annual product category quality can be analyzed from the total revenue, total order cancellations, top product categories, and the most frequently canceled product categories.
+
+<br>
+<br>
+
+
+---
+
+
