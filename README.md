@@ -20,8 +20,6 @@ Collecting insights through analysis and visual representation :
 1. **Annual Customer Activity Growth**
 2. **Annual Product Category Quality**
 3. **Annual Payment Type Usage**
-<br>
-<br>
 
 ---
 
