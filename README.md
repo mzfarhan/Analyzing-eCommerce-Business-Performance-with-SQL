@@ -5,8 +5,6 @@
 **Query Tool** : PostgreSQL <br> 
 **Cleaning Data Tool** : Google Colab <br> 
 **Visualization** : Microsoft Excel <br>
-<br>
-<br>
 
 ---
 
