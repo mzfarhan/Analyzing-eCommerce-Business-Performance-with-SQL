@@ -38,4 +38,12 @@ The dataset used is from a Brazilian E-Commerce company, containing order inform
 5. Perform data cleaning using Google Colab.
 6. Import cleaned CSV data into the created tables. <br>
 
+**ERD Result :**
+![ERD Analyzing eCommerce Business Performance](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/c8c2aab0-2416-4d34-a33a-38fc88be7048)
+
 Query selengkapnya dapat dilihat [disini](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Create%20Table%20Query.sql) <br>
+Cleaning data selengkapnya dapat dilihat [disini](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/Preprocessing_Data_ecommerce.ipynb) <br>
+
+---
+
+## 📂 **STAGE 2: Data Analysis**
