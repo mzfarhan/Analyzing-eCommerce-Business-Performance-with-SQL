@@ -36,7 +36,11 @@ The dataset used is from a Brazilian E-Commerce company, containing order inform
 
 **ERD Result :**
 ![ERD Analyzing eCommerce Business Performance](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/c8c2aab0-2416-4d34-a33a-38fc88be7048)
-
+<p align="center">
+  <kbd><img src="assets/Query 2 Master Table.jpg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram (ERD)
+</p>
+<br>
 Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Create%20Table%20Query.sql) for the Create Table Query<br>
 Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/Preprocessing_Data_ecommerce.ipynb) for the Cleaning Data <br>
 
@@ -48,41 +52,42 @@ Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performanc
 Annual customer activity growth can be analyzed from Monthly Active Users (MAU), new customers, repeat order customers, and average orders per customer.
 
 <p align="center">
-**Annual Customer Activity Growth Analysis Results**
-![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/5fea778c-ee4a-4c1e-a148-abf337016f99)
+  <kbd><img src="assets/Query 2 Master Table.jpg" width=800px> </kbd> <br>
+  Picture 2. Query Annual Customer Activity Growth Master Table
 </p>
-
 <br>
 
+**a. Average Monthly Active User (MAU) Per Year**
 <p align="center">
-**Average MAU Graph**
-![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/abc219a8-2620-4b0e-9659-b34ad2e0851f)
+  <kbd><img src="assets/Query 2 Average Monthly Active User Per Year.jpg" width=800px> </kbd> <br>
+  Picture 3. Average Monthly Active User (MAU) Per Year Graphic
 </p>
-Overall, the company experienced an increase in Monthly Active Users every year. A significant increase occurred from 2016 to 2017.
-
+The number of monthly active users increased sharply from 108 in 2016 to 3,684 in 2017, and reached 5,323 in 2018. The increase in the number of active users indicates that more customers are engaged and consistently using the service. This also reflects the good quality of the service and successful marketing efforts in attracting and retaining users.
 <br>
 
+**b. Total New Customer per Year**
 <p align="center">
-**Total New Customer per Year**
-![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/9fd528fb-d23a-431c-b8f5-b2ab0ccf43ea)
+  <kbd><img src="assets/Query 2 Total New Customer Per Year.jpg" width=800px> </kbd> <br>
+  Picture 4. Total New Customer Per Year Graphic
 </p>
-Overall, the company experienced an increase in the Number of New Customers every year. A significant increase occurred from 2016 to 2017.
-
+The total number of new customers increased drastically from 326 in 2016 to 43,587 in 2017, and reached 51,915 in 2018. The annual increase in new customers reflects the company's ability to reach a broader market and attract more potential customers. This is crucial for long-term growth and increasing market share.
 <br>
 
+**c. Customer Repeat Order Per Year**
 <p align="center">
-**Customer Repeat Order per Year**
-![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/04e846d8-111e-4c0c-a264-78586f3417d3)
+  <kbd><img src="assets/Query 2 Total Customer Repeat Order Per Year.jpg" width=800px> </kbd> <br>
+  Picture 5. Total Customer Repeat Order Per Year Graphic
 </p>
-Overall, the company experienced an increase in the Number of Customers who placed repeat orders every year. A significant increase occurred from 2016 to 2017.
-
+The number of customers making repeat orders increased drastically from 3 in 2016 to 1,252 in 2017, although it slightly decreased to 1,163 in 2018. The significant increase in 2017 indicates the success of the customer retention strategies implemented by the company. Despite the slight decrease in 2018, the figure remains significantly higher than in 2016, reflecting an increase in customer loyalty and satisfaction with the products or services offered.
 <br>
 
+**d. Average Order Frequency per Year**
 <p align="center">
-**Average Order Frequency per Year**
-![image](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/assets/64683758/90903eb8-44c8-4d53-bf00-325d9f6aeb0f)
+  <kbd><img src="assets/Query 2 Average Order per Year.jpg" width=800px> </kbd> <br>
+  Picture 6. Average Order Frequency per Year Graphic
 </p>
-The customer repeat order rate is considered low, averaging only once a year.
+The average order frequency per customer remained stable at 1 order per year during the period from 2016 to 2018. Although the order frequency did not show an increase, this stability is important as it indicates that customers continue to make repeat purchases at a consistent frequency. This reflects the company's failure to maintain customer engagement.
+<br>
 
 ### **2. Annual Product Category Quality**
 
