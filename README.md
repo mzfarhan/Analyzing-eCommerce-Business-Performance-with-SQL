@@ -41,7 +41,7 @@ The dataset used is from a Brazilian E-Commerce company, containing order inform
   Picture 1. Entity Relationship Diagram (ERD)
 </p>
 <br>
-Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Create%20Table%20Query.sql) for the Create Table Query<br>
+Click <u></u>[here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Create%20Table%20Query.sql)</u> for the Create Table Query<br>
 Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/Preprocessing_Data_ecommerce.ipynb) for the Cleaning Data <br>
 
 ---
