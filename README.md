@@ -65,7 +65,7 @@ Annual customer activity growth can be analyzed from Monthly Active Users (MAU),
 The number of monthly active users increased sharply from 108 in 2016 to 3,684 in 2017, and reached 5,323 in 2018. The increase in the number of active users indicates that more customers are engaged and consistently using the service. This also reflects the good quality of the service and successful marketing efforts in attracting and retaining users.
 <br>
 
-**b. Total New Customer per Year**
+**b. Total New Customer Per Year**
 <p align="center">
   <kbd><img src="assets/Query 2 Total New Customer Per Year.jpg" width=800px> </kbd> <br>
   Picture 4. Total New Customer Per Year Graphic
@@ -81,10 +81,10 @@ The total number of new customers increased drastically from 326 in 2016 to 43,5
 The number of customers making repeat orders increased drastically from 3 in 2016 to 1,252 in 2017, although it slightly decreased to 1,163 in 2018. The significant increase in 2017 indicates the success of the customer retention strategies implemented by the company. Despite the slight decrease in 2018, the figure remains significantly higher than in 2016, reflecting an increase in customer loyalty and satisfaction with the products or services offered.
 <br>
 
-**d. Average Order Frequency per Year**
+**d. Average Order Frequency Per Year**
 <p align="center">
-  <kbd><img src="assets/Query 2 Average Order per Year.jpg" width=800px> </kbd> <br>
-  Picture 6. Average Order Frequency per Year Graphic
+  <kbd><img src="assets/Query 2 Average Order Per Year.jpg" width=800px> </kbd> <br>
+  Picture 6. Average Order Frequency Per Year Graphic
 </p>
 The average order frequency per customer remained stable at 1 order per year during the period from 2016 to 2018. Although the order frequency did not show an increase, this stability is important as it indicates that customers continue to make repeat purchases at a consistent frequency. This reflects the company's failure to maintain customer engagement.
 <br>
