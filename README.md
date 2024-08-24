@@ -172,10 +172,26 @@ Credit card usage increased significantly from 34,474 in 2016 to 41,848 in 2018.
 
 Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Annual%20Payment%20Type%20Usage%20Analysis.sql) for the Annual Payment Type Usage Query<br>
 
-<br>
-<br>
-
-
 ---
+
+## 📂 **STAGE 3: Recommendation**
+<br>
+
+**1. Annual Customer Activity Growth**
+- Growth in Monthly Active Users and New Customers
+  - Invest in technology infrastructure to ensure consistent performance and user experience.
+  - Implement loyalty programs and enhance customer service to retain new customers and reduce churn rate.
+  - Continuously analyze and iterate on marketing campaigns that have proven effective to maintain customer growth momentum.
+- Improvement and Stability of Repeat Orders and Order Frequency
+  - Implement stronger retention programs, such as discounts for repeat orders, and improve service quality to increase repeat orders.
+  - Utilize data analysis to provide personalized offers to customers, encouraging them to place orders more frequently.
+  - Collect and analyze customer feedback to identify and address barriers to repeat orders, and to enhance the shopping experience.
+- Addressing the Decline in Repeat Orders
+  - Conduct deeper analysis to understand the reasons behind the decline in repeat orders in 2018 and take appropriate actions.
+  - Offer a variety of products and attractive quality improvements to encourage customers to place repeat orders.
+  - Develop re-engagement campaigns for inactive customers, offering incentives to encourage them to make purchases again.
+<br>
+**2. Annual Product Category Quality**
+**3. Annual Payment Type Usage**
 
 
