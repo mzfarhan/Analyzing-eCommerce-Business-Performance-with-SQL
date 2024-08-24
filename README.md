@@ -192,8 +192,9 @@ Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performanc
   - Conduct deeper analysis to understand the reasons behind the decline in repeat orders in 2018 and take appropriate actions.
   - Offer a variety of products and attractive quality improvements to encourage customers to place repeat orders.
   - Develop re-engagement campaigns for inactive customers, offering incentives to encourage them to make purchases again.
-<br>
+
 **2. Annual Product Category Quality**
+
 - **Total Revenue Growth**
   - Identify and replicate successful marketing strategies to continuously increase revenue.
   - Consider expanding into new markets to maintain strong revenue growth.
@@ -213,8 +214,9 @@ Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performanc
   - Identify and address product quality issues in categories with high cancellation rates to improve product quality.
   - Collect and analyze customer feedback to understand the reasons for cancellations and implement necessary improvements.
   - Provide training to sales staff to better understand the products and handle customer complaints effectively, reducing cancellations.
-<br>
+
 **3. Annual Payment Type Usage**
+
 - **Maximizing Credit Card Usage**
   - Offer special promotions, such as cashback or discounts, to encourage more transactions using credit cards.
   - Collaborate with credit card providers to offer exclusive deals to customers.
