@@ -178,20 +178,56 @@ Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performanc
 <br>
 
 **1. Annual Customer Activity Growth**
-- Growth in Monthly Active Users and New Customers
+- **Growth in Monthly Active Users and New Customers**
   - Invest in technology infrastructure to ensure consistent performance and user experience.
   - Implement loyalty programs and enhance customer service to retain new customers and reduce churn rate.
   - Continuously analyze and iterate on marketing campaigns that have proven effective to maintain customer growth momentum.
-- Improvement and Stability of Repeat Orders and Order Frequency
+
+- **Improvement and Stability of Repeat Orders and Order Frequency**
   - Implement stronger retention programs, such as discounts for repeat orders, and improve service quality to increase repeat orders.
   - Utilize data analysis to provide personalized offers to customers, encouraging them to place orders more frequently.
   - Collect and analyze customer feedback to identify and address barriers to repeat orders, and to enhance the shopping experience.
-- Addressing the Decline in Repeat Orders
+
+- **Addressing the Decline in Repeat Orders**
   - Conduct deeper analysis to understand the reasons behind the decline in repeat orders in 2018 and take appropriate actions.
   - Offer a variety of products and attractive quality improvements to encourage customers to place repeat orders.
   - Develop re-engagement campaigns for inactive customers, offering incentives to encourage them to make purchases again.
 <br>
 **2. Annual Product Category Quality**
+- **Total Revenue Growth**
+  - Identify and replicate successful marketing strategies to continuously increase revenue.
+  - Consider expanding into new markets to maintain strong revenue growth.
+  - Continue diversifying products to attract various customer segments and reduce the risk of dependency on a single type of product.
+
+- **Revenue Growth by Product Category**
+  - Maintain and increase focus on product categories that show significant revenue growth.
+  - Develop new products within existing categories to meet customer demand and expand market share.
+  - Execute targeted promotional marketing for product categories that show high growth potential.
+
+- **Increase in Canceled Orders**
+  - Conduct deeper analysis to identify the main causes of order cancellations.
+  - Implement customer service improvement programs to address complaints and enhance customer satisfaction.
+  - Refine shipping processes and inventory management to reduce order cancellations caused by logistical issues.
+
+- **Increase in Product Cancellations by Product Category**
+  - Identify and address product quality issues in categories with high cancellation rates to improve product quality.
+  - Collect and analyze customer feedback to understand the reasons for cancellations and implement necessary improvements.
+  - Provide training to sales staff to better understand the products and handle customer complaints effectively, reducing cancellations.
+<br>
 **3. Annual Payment Type Usage**
+- **Maximizing Credit Card Usage**
+  - Offer special promotions, such as cashback or discounts, to encourage more transactions using credit cards.
+  - Collaborate with credit card providers to offer exclusive deals to customers.
+  - Ensure the security of transactions using credit cards to increase customer trust.
+
+- **Increasing the Use of Alternative Payment Methods**
+  - Offer incentives such as discounts or rewards to encourage the use of alternative payment methods like boleto and vouchers.
+  - Raise customer awareness about the benefits and ease of use of alternative payment methods by utilizing current trend-focused advertisements.
+  - Ensure all payment methods are easily accessible and usable on the platform, with a simple and quick checkout process.
+
+- **Optimizing Debit Card Usage**
+  - Provide special promotions to encourage debit card usage, such as waiving transaction fees or offering direct discounts.
+  - Partner with banks to offer promotions or special programs for debit cardholders.
+  - Ensure that the debit card payment process is easy and fast to encourage more usage.
 
 
