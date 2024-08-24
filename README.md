@@ -125,7 +125,7 @@ Revenue from the "furniture_decor" product category in 2016 was 6,899, rising to
 
 **c. Total Canceled Order Per Year**
 <p align="center">
-  <kbd><img src="assets/Query 3 Total Canceled Order Per Year.jpg" width=800px> </kbd> <br>
+  <kbd><img src="assets/Query 3 Total Canceled Order Per Year.png" width=800px> </kbd> <br>
   Picture 10. Total Canceled Order Per Year Graphic
 </p>
 The number of canceled orders increased significantly from 26 in 2016 to 263 in 2017, reaching 334 in 2018. This consistent increase indicates problems in the ordering, shipping, or customer satisfaction processes. Possible contributing factors include logistical issues, product quality, or customer dissatisfaction with the service.
@@ -143,6 +143,34 @@ The number of canceled products increased from 3 in the "toys" category in 2016 
 
 Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Annual%20Product%20Category%20Quality%20Analysis.sql) for the Annual Product Category Quality Query<br>
 
+### **3. Annual Payment Type Usage**
+
+The annual payment type usage can be analyzed from the payment type, year, and total payment type usage.
+
+<p align="center">
+  <kbd><img src="assets/Query 4 Master Table.jpg" width=800px> </kbd> <br>
+  Picture 12. Annual Payment Type Usage Table
+</p>
+
+**a. Total Payment Type Usage**
+<p align="center">
+  <kbd><img src="assets/Query 4 Total Payment Type Usage.jpg" width=800px> </kbd> <br>
+  Picture 13. Total Payment Type Usage Graphic
+</p>
+Total credit card usage reached 76,580, far surpassing other payment methods such as boleto (19,727), voucher (5,761), and debit card (1,528). This data indicates that credit cards are the most preferred payment method by customers. The dominance of credit cards reflects customers' trust in the security and ease of use of credit cards for their transactions.
+<br>
+<br>
+
+**b. Payment Type Usage Per Year**
+<p align="center">
+  <kbd><img src="assets/Query 4 Payment Type Usage Per Year.jpg" width=800px> </kbd> <br>
+  Picture 14. Payment Type Usage Per Year Graphic
+</p>
+Credit card usage increased significantly from 34,474 in 2016 to 41,848 in 2018. Meanwhile, boleto usage also saw an increase from 63 in 2016 to 10,185 in 2018. Voucher and debit card usage also showed a notable increase in 2018. This data indicates a trend towards diversification in the payment methods used by customers. Although credit cards remain dominant, the increase in boleto, voucher, and debit card usage suggests that customers are becoming more comfortable using a variety of payment methods.
+<br>
+<br>
+
+Click [here](https://github.com/mzfarhan/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/sql_query/Annual%20Payment%20Type%20Usage%20Analysis.sql) for the Annual Payment Type Usage Query<br>
 
 <br>
 <br>
